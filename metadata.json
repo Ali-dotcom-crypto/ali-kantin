@@ -1,0 +1,6 @@
+{
+  "name": "KantinKampus UIN Jakarta - Pesan Antar Tanpa Antre",
+  "description": "Aplikasi pesan-antar makanan dan minuman kantin UIN Syarif Hidayatullah Jakarta stan Ali baput dengan pembayaran QRIS, transfer BSI, dan pengantaran ke ruang kuliah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
